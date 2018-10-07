@@ -1,0 +1,13 @@
+[RWU_MCMListener]
++ModName="Resistance Weapon Upgrades"
+
++GeneralGroupName="General Settings"
++BasicUpgradesGroupName="Basic Upgrades"
++AdvancedUpgradesGroupName="Advanced Upgrades"
++SuperiorUpgradesGroupName="Superior Upgrades"
++PrototypeUpgradesGroupName="Prototype Upgrades"
++OtherUpgradesGroupName="Other Upgrades"
+
++ChanceDropdownName="Chance to Appear"
++ChanceDropdownDesc="The likelihood of an upgrade appearing on a reward soldier expressed as a percent"
++UpgradeDropdownDesc="The likelihood of this upgrade appearing on a reward soldier relative to the weights of all other upgrades"
