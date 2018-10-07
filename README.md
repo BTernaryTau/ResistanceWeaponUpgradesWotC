@@ -1,4 +1,4 @@
-﻿Steam page: https://steamcommunity.com/sharedfiles/filedetails/?id=1161829397
+Steam page: https://steamcommunity.com/sharedfiles/filedetails/?id=1161829397
 
 Gives rewarded and purchased soldiers a chance to have a weapon upgrade already applied when they appear in the armory. WotC version of [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=634262789).
 
@@ -8,14 +8,14 @@ By default, eligible soldiers each have a 30% chance of having an upgrade, with 
 
 The thematic goal of this mod is simply to give resistance soldiers that aren't part of XCOM the ability to duct-tape ADVENT weapon parts to their own weapons, since that doesn't seem like a particularly complicated task to me.
 
-# Known Issues
+#### Known Issues
 * None
 
-# Compatibility
+#### Compatibility
 * Can apply primary weapon upgrades added by other mods
 * Confirmed to work with [Grimy's Loot Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1142377029) and [Weapon Upgrades Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1159373456)
 * Overwrites the GiveRewardFn delegate for the 'Reward_Soldier' and 'Reward_Rookie' X2RewardTemplates
 * No class overrides
 
-# Possible Future Changes
+#### Possible Future Changes
 * Make the chance of a soldier having an upgrade increase with their rank
